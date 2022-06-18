@@ -1,4 +1,4 @@
-# Kickstarter-analysis
+# Excel-analysis
 Analysis on data to identify trends
 
 Theater is the most popular category 
